@@ -1,0 +1,2 @@
+D:\FA7\PPP-I (C#)\TrabalhoFinal\TrendTopics1581444\TrendTopics1581444.UWP\TrendTopics1581444.UWP.csproj;x86
+D:\FA7\PPP-I (C#)\TrabalhoFinal\TrendTopics1581444\TrendTopics1581444\TrendTopics1581444.csproj;neutral

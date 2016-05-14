@@ -1,0 +1,2 @@
+D:\FA7\PPP-I (C#)\TrabalhoFinal\TrendTopics1581444\TrendTopics1581444.WinPhone\TrendTopics1581444.WinPhone.csproj;x86
+D:\FA7\PPP-I (C#)\TrabalhoFinal\TrendTopics1581444\TrendTopics1581444\TrendTopics1581444.csproj;neutral
